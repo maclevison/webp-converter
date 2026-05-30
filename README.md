@@ -25,7 +25,7 @@ No server. No installs. Just open the file.
 
 ### Local
 
-Just open `webp-converter.html` in any modern browser. No setup required.
+Just open `index.html` in any modern browser. No setup required.
 
 ### Self-hosted
 
